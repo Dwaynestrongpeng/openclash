@@ -1,2 +1,2 @@
-# openclashwrt
+# openclash
 openwrt
